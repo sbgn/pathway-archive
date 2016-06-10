@@ -1,8 +1,5 @@
 
-
-
-
-This pathway provides SBGN diagrams from the following paper published in the October, 2014 issue of the Cell magazine (PubMed ID: [25303525](http://www.ncbi.nlm.nih.gov/pubmed/25303525)).
+This page provides SBGN diagrams from the following paper published in the October, 2014 issue of the Cell magazine (PubMed ID: [25303525](http://www.ncbi.nlm.nih.gov/pubmed/25303525)).
 
 *Ma H, Groth RD, Cohen SM, Emery JF, Li B, Hoedt E, Zhang G, Neubert TA, Tsien RW. (2014) γCaMKII shuttles Ca²⁺/CaM to the nucleus to trigger CREB phosphorylation and gene expression. [Cell 159,281-294](http://www.sciencedirect.com/science/article/pii/S0092867414011684).*
 
@@ -26,4 +23,4 @@ Here is the SBGN-AF map pf the pathway.
 
 ### Archives
 
-Click [here](https://github.com/sbgn/pathway-archive) to access previously *pathway of the month* maps.
+Click [here](https://github.com/sbgn/pathway-archive) to access all pathways in the repository.
