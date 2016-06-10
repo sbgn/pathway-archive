@@ -26,9 +26,9 @@ Activity-dependent CREB phosphorylation and gene expression are critical for lon
 Additional downloads
 --------------------
 
-[SBGN-ML format for PD map](https://github.com/sbgn/pathway-archive/blob/master/camkii-creb-phosphorylation/POM_Nov2014_PD.sbgn)
+[SBGN-ML format for PD map](https://raw.githubusercontent.com/sbgn/pathway-archive/master/camkii-creb-phosphorylation/POM_Nov2014_PD.sbgn)
 
-[SBGN-ML format for AF map](https://github.com/sbgn/pathway-archive/blob/master/camkii-creb-phosphorylation/POM_Nov2014_AF.sbgn)
+[SBGN-ML format for AF map](https://raw.githubusercontent.com/sbgn/pathway-archive/master/camkii-creb-phosphorylation/POM_Nov2014_AF.sbgn)
 
 Archives
 --------
